@@ -1,4 +1,4 @@
-# Garmin {blank:uc-name} Time
+# Garmin {blank:ucname} Time
 
 A minimalist, elegant, nerdy, typography-focused Garmin Connect IQ watch face that displays the current time {blank:short-description}.
 
