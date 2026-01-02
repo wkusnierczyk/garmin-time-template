@@ -2,7 +2,7 @@
 name: Cleanup
 about: General cleanup and maintenance
 title: "[CLEANUP] "
-labels: ''
+labels: cleanup
 assignees: wkusnierczyk
 
 ---
