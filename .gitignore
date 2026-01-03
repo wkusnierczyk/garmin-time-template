@@ -31,4 +31,4 @@ test_build-settings.json
 Thumbs.db
 
 # Developer Key (CRITICAL: Never commit this)
-developer_key.der
+developer_key*
